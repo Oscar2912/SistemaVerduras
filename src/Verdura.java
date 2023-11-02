@@ -55,4 +55,15 @@ public class Verdura {
     public void setDebeCocinarse(String debeCocinarse) {
         this.debeCocinarse = debeCocinarse;
     }
+
+    @Override
+    public String toString() {
+        return "Verdura{" +
+                "id=" + id +
+                ", nombre='" + nombre + '\'' +
+                ", color='" + color + '\'' +
+                ", calorias=" + calorias +
+                ", debeCocinarse='" + debeCocinarse + '\'' +
+                '}';
+    }
 }
