@@ -3,7 +3,7 @@ Revisado por Alicia Martínez
 
 La primera prueba consistirá en comprobar el funcionamiento de los métodos get:
 
-Imprimuiendo por pantalla los valores de la posición 0 con los método getter:
+Imprimiendo por pantalla los valores de la posición 0 con los método getter:
 
 CÓDIGO:
 System.out.println("Id: " + verduras[0].getId() + " Nombre: " + verduras[0].getNombre() +
@@ -19,7 +19,7 @@ CONCLUSIÓN:
 Los métodos getter funcionan correctamente y devuelven el resultado esperado.
 
 Cotinuamos con la prueba de los setters, utilizando la prueba anterior para comprobarlo
-Cambiamos la verdura[0] probando todos los setters y imprimimos con la prueba anterior
+Cambiamos la verdura[0] probando todos los setters e imprimimos con la prueba anterior
 
 CODIGO:
 
