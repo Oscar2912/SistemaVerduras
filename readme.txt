@@ -1,3 +1,9 @@
+Developer: Óscar Cuenca
+Tester1: Alicia Martínez
+Tester2: Alejandro de Blas
+Documentator: Óscar Cuenca
+
+
 ********************************Archivo de pruebas****************************
 Revisado por Alicia Martínez
 
